@@ -3,9 +3,9 @@ These katas can be coded in any programming language you feel like. They are des
 
 Once you’ve done it a few times and you can solve the interesting problem without difficulty, you can begin learning other things from the kata. For example do it in another programming language, or do the tests in a different order, or use an unfamiliar testing tool.
 
-Audit everything
-Bank Account
-Calculate Stats
+Audit everything \n
+Bank Account \n
+Calculate Stats \n
 Closest To Zero
 Filename Range
 FizzBuzz
@@ -36,5 +36,5 @@ Yatzy
 In this repository we will working on this Samarankatas (cases).
 small interesting problems 
 every one of this katas will help the trainer of know the rails of the best practices using the TDD : design pattern 
-after completing this Katas we will convert it to rust language.
+after completing this Katas we will convert it to rust language
 22/06/2023 
