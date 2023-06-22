@@ -3,9 +3,9 @@ These katas can be coded in any programming language you feel like. They are des
 
 Once you’ve done it a few times and you can solve the interesting problem without difficulty, you can begin learning other things from the kata. For example do it in another programming language, or do the tests in a different order, or use an unfamiliar testing tool.
 
-Audit everything \n
-Bank Account \n
-Calculate Stats \n
+Audit everything
+Bank Account
+Calculate Stats 
 Closest To Zero
 Filename Range
 FizzBuzz
